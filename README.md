@@ -29,4 +29,6 @@ Welcome to my GitHub! Here you'll find my portfolio projects, experiments, and c
 ![Iúri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JMTI10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTI10&layout=compact&theme=tokyonight)
 
+---
+
 ## ✨ More coming soon...
