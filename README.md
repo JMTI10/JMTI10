@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Iúri Gonçalves
 
-<!--
-**JMTI10/JMTI10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Student | 💻 Software Developer | 🤖 Robotics Enthusiast  
+Welcome to my GitHub! Here you'll find my portfolio projects, experiments, and collaborations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Portfolio Website** – [Visit](https://jmti10.github.io/Portfolio/) | [Repo](https://github.com/JMTI10/Portfolio)
+- **Attendance Tracker** – Web app to track class attendance.
+
+---
+
+## 🔧 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+
+---
+
+## 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/yourname) | [Instagram](https://www.instagram.com/yourusername) | [GitHub](https://github.com/JMTI10)
+
+![Iúri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JMTI10&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTI10&layout=compact&theme=tokyonight)
