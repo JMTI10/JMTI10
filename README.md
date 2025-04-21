@@ -24,7 +24,7 @@ Welcome to my GitHub! Here you'll find my portfolio projects, experiments, and c
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/yourname) | [Instagram](https://www.instagram.com/yourusername) | [GitHub](https://github.com/JMTI10)
+[LinkedIn](https://www.linkedin.com/in/iuri-goncalves/) | [Instagram](https://www.instagram.com/iuri__goncalves/) | [GitHub](https://github.com/JMTI10)
 
 ![Iúri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JMTI10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTI10&layout=compact&theme=tokyonight)
